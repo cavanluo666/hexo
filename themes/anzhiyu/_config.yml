@@ -31,6 +31,10 @@ nav:
         - name: 个人主页
           link: https://home.246644.xyz/
           icon: /img/favicon.ico
+      item:
+        - name: lch的个人网站
+          link: https://246644.xyz/
+          icon: /img/favicon.ico
     - title: 项目
       item:
         - name: better-gui(一款mc材质包)
