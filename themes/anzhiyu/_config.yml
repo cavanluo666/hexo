@@ -1044,8 +1044,8 @@ home_top:
   subTitle: 万物可爱。
   siteText: anheyu.com
   category:
-    - name: 占位
-      path: /categories/前端开发/
+    - name: 教程
+      path: /categories/教程/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
