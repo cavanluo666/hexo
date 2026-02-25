@@ -28,8 +28,8 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: 博客
-          link: https://hexo.anheyu.com/
+        - name: 个人主页
+          link: https://home.246644.xyz/
           icon: /img/favicon.ico
     - title: 项目
       item:
@@ -422,7 +422,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2026
   custom_text:
   runtime:
     enable: false
