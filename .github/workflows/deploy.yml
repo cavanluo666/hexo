@@ -20,7 +20,7 @@ jobs:
       # Step 1：检出仓库源码
       - uses: actions/checkout@v4
 
-      # Step 2：设置 Node.js 环境
+      # Step 2：设置 Node.js 环境一定要和本地一样
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
