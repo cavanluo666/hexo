@@ -1,10 +1,12 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - 教程
 date: '2026-02-25T14:45:19.294966+08:00'
-tags: []
+tags:
+- 教程
 title: 使用github action 自动部署 hexo
-updated: '2026-02-25T14:50:53.792+08:00'
+updated: '2026-02-25T14:58:27.149+08:00'
 ---
 使用 GitHub Actions 自动部署 Hexo 博客是一种高效、免费的持续集成/持续部署（CI/CD）方案。这样，你只需专注于撰写 Markdown 文章，推送到代码仓库后，GitHub 会自动帮你完成环境配置、静态文件生成和页面发布。
 
@@ -142,3 +144,5 @@ jobs:
 * 部署方式：本教程采用将静态文件部署到 gh-pages 分支的方式，这是目前比较推荐的实践。你也可以选择直接部署到 master 分支。
 * 样式丢失：如果博客访问时没有样式，通常是因为资源路径配置错误。请检查 Hexo 源码目录下的 _config.yml 文件，确保 url 和 root 配置项正确无误。
 * 自定义域名：如需绑定自定义域名，可以在源码仓库的 source 目录下新建一个名为 CNAME 的文件（无后缀），并在其中写入你的域名（例如 blog.example.com）。GitHub Actions 部署时会自动将其发布。
+
+  *本文章部分内容使用ai生成*
