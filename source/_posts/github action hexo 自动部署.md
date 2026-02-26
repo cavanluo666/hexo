@@ -2,11 +2,12 @@
 abbrlink: ''
 categories:
 - - 教程
+cover: https://hexo.io/icon/og-image-wide.png
 date: '2026-02-25T14:45:19.294966+08:00'
 tags:
 - 教程
 title: 使用github action 自动部署 hexo
-updated: '2026-02-25T14:58:27.149+08:00'
+updated: '2026-02-26T15:23:47.663+08:00'
 ---
 使用 GitHub Actions 自动部署 Hexo 博客是一种高效、免费的持续集成/持续部署（CI/CD）方案。这样，你只需专注于撰写 Markdown 文章，推送到代码仓库后，GitHub 会自动帮你完成环境配置、静态文件生成和页面发布。
 
