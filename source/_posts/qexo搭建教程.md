@@ -1,11 +1,11 @@
 ---
 abbrlink: ''
 categories: []
-cover: https://unpkg.com/qexo-static@1.4.0/assets/img/brand/qexo.png
+cover: https://img.246644.xyz/1000123461.png
 date: '2026-02-26T15:38:27.900118+08:00'
 tags: []
 title: Hexo云后台——Qexo搭建教程
-updated: '2026-02-26T15:38:28.910+08:00'
+updated: '2026-02-26T15:53:26.254+08:00'
 ---
 摘要
 
